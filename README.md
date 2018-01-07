@@ -10,25 +10,25 @@ github.com/mikolajczyk
 
 ## RELEVANT COURSEWORK
 
-Database Management
+- Database Management
 
-Security Engineering
+- Security Engineering
 
-Physics 1, 2
+- Physics 1, 2
 
-Calculus 1, 2
+- Calculus 1, 2
 
-Digital Logic & Computer Design
+- Digital Logic & Computer Design
 
 ## SKILLS
 
-Java, C, Python, Bash, Unix Shell, Ruby, Lisp, Prolog
+- Java, C, Python, Bash, Unix Shell, Ruby, Lisp, Prolog
 
-Familiar with SQL, MySQ
-L
-Leadership and teambuilding
+- Familiar with SQL, MySQL
 
-Written and verbal communication skills
+- Leadership and teambuilding
+
+- Written and verbal communication skills
 
 ## EXPERIENCE
 Junior Programmer | April 2015 – May 2016 | Yuccasoft
