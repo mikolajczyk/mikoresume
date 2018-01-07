@@ -48,10 +48,10 @@ Planned and managed major field trips for large groups of students
  
 ## EDUCATION
 
-### B.S. Computer Science | Expected 2018
+#### B.S. Computer Science | Expected 2018
 
 Cal State Dominguez Hills
 
-### A.A. Sociology | June 2014
+#### A.A. Sociology | June 2014
 
 El Camino College
