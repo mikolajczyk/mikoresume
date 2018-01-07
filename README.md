@@ -1,20 +1,33 @@
 # Matthew Mikolajczyk
+
 (310) 938-4809
+
 matt.mikolajczyk1@gmail.com
+
 linkedin.com/in/matthewmikolajczyk
+
 github.com/mikolajczyk
 
 ## RELEVANT COURSEWORK
+
 Database Management
+
 Security Engineering
+
 Physics 1, 2
+
 Calculus 1, 2
+
 Digital Logic & Computer Design
 
 ## SKILLS
+
 Java, C, Python, Bash, Unix Shell, Ruby, Lisp, Prolog
-Familiar with SQL, MySQL
+
+Familiar with SQL, MySQ
+L
 Leadership and teambuilding
+
 Written and verbal communication skills
 
 ## EXPERIENCE
