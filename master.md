@@ -40,7 +40,7 @@ EXPERIENCE
 
 -   Designed and implemented dynamic front end of website for a softball
     league in HTML/CSS. It was an interactive website that helped
-    organize and display schedules and standings for the client’s
+    organize and display schedules, standings, and team information for the client’s
     softball league
 
 -   Coded in JavaScript to implement interactive menus and tables with
