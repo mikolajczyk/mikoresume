@@ -36,7 +36,7 @@ SKILLS
 EXPERIENCE
 ----------
 
-### Junior Programmer | April 2015 – May 2016 | Yuccasoft
+### Junior Programmer | April 2015 – May 2016 | YuccaSoft
 
 -   Designed and implemented dynamic front end of website for a softball
     league in HTML/CSS. It was an interactive website that helped
