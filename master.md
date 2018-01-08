@@ -25,9 +25,9 @@ RELEVANT COURSEWORK
 SKILLS
 ------
 
--   Java, C, Python, Bash, Unix Shell, Ruby, Lisp, Prolog
+-   Java, C, Python, Bash/Unix Shell, Ruby, Lisp, Prolog
 
--   Familiar with SQL, MySQL
+-   Familiar with MySQL and relational databases
 
 -   Leadership and teambuilding
 
