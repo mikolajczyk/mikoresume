@@ -1,4 +1,4 @@
-HELLO THEA Matthew Mikolajczyk ===================
+Matthew Mikolajczyk ===================
 
 (310) 938-4809
 
