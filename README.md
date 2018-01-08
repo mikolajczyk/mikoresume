@@ -39,16 +39,15 @@ EXPERIENCE
 ### Junior Programmer | April 2015 – May 2016 | YuccaSoft
 
 -   Designed and implemented dynamic front end of website for a softball
-    league in HTML/CSS. It was an interactive website that helped
-    organize and display schedules, standings, and team information for
-    the client’s softball league
+    league in HTML/CSS. The interactive website helped organize and
+    display schedules, standings, and team information for the client’s
+    softball league
 
--   Coded in JavaScript to implement interactive menus and tables with
-    drag and drop functionality using the HTML Drag and Drop API that
-    made it easy to use for the client
+-   Streamlined client user-interface with JavaScript interactive menus
+    and tables using the HTML Drag and Drop API
 
--   Used MySQL workbench to design and manage the MySQL database. Used
-    SQL to query the database and insert and update the tables with team
+-   Utilized MySQL Workbench to design and manage the MySQL database.
+    Wrote SQL queries to create and update database tables with team
     information and match results
 
 ### Educational Team Leader | July 2013 – August 2013 | Crear
