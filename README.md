@@ -55,8 +55,9 @@ EXPERIENCE
 -   Worked with Costa Rican children on English language acquisition
     using educational games and exercises
 
--   Developed English lesson plans for Spanish speaking students Planned
-    and managed major field trips for large groups of students
+-   Developed English lesson plans for Spanish speaking students
+
+-   Planned and managed major field trips for large groups of students
 
 EDUCATION
 ---------
