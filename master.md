@@ -1,7 +1,7 @@
 Matthew Mikolajczyk
 ===================
 
-(310) 938-4809
+938-4809
 
 matt.mikolajczyk1@gmail.com
 
